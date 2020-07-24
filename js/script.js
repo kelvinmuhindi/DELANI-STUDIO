@@ -10,7 +10,7 @@ $(".clickable3").click(function(){
   $(".management-hidden").slideToggle();
   $(".management-showing").slideToggle();
 });
-var key = '1c2089a31a00d28af6cb0e553ed84697-us20';
+var key = '1';
 $("button").click(function(event) {
   event.preventDefault();
   var user = document.getElementById('username').value;
