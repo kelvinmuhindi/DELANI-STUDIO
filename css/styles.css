@@ -2,7 +2,7 @@ html{
   scroll-behavior: smooth;
 }
 body{
-  background-image: url("..Images/Backgrounds/h_img.jpg");
+  background-image: url("https://i.postimg.cc/hjVMGXXV/h-img.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -30,7 +30,7 @@ body{
   font-family: "Lora";
 }
 .services{
-  background-image: url("..Images/Backgrounds/s_image.jpg");
+  background-image: url(https://i.postimg.cc/HYM6zh6j/s-image.jpg"");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -95,7 +95,7 @@ display: none;
   width: 85%;
 }
 .Contacts {
-  background-image: url("..Images/Backgrounds/c_image.jpg");
+  background-image: url("https://i.postimg.cc/RFhbVScR/c-image.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
