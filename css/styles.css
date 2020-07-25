@@ -30,7 +30,7 @@ body{
   font-family: "Lora";
 }
 .services{
-  background-image: url(https://i.postimg.cc/HYM6zh6j/s-image.jpg"");
+  background-image: url("https://i.postimg.cc/HYM6zh6j/s-image.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
