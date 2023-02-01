@@ -2,7 +2,7 @@
 <p>A website that connects web developers to possible investors who want to have a website built for them.</p>
 
 # OWNERSHIP
-<p>The system is licensed to Kelvin Muhindi and was last updated on 26/07/2020 </p>
+<p>The system is licensed to Kelvin Muhindi and was last updated on 01/02/2023</p>
 
 # DESCRIPTION
 <p>Delani studio is a website that is dedicated to connecting you with world class developers to build your website. Through the website, you can get to know who we are and what we do too. We also give you a chance to take a sneak peek at our past projects and contact us for enquiry and more.</p>
